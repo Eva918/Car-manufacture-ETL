@@ -1,0 +1,11 @@
+MaterialID,MaterialName,Category,Description,Supplier,PricePerUnit,AvailableQuantity
+1,Steel,Structural,High-strength steel for car frame and body construction,ABC Steel Corp,25.50,5000
+2,Aluminum,Structural,Lightweight aluminum alloys for various car components,XYZ Alloys Inc,35.75,2000
+3,Plastic,Interior,Plastic materials for interior components and panels,PlasticTech Ltd,10.25,8000
+4,Leather,Interior,Genuine leather for car seats and upholstery,FineLeather Co,45.00,1500
+5,Rubber,Interior,High-performance rubber compounds for tire manufacturing,RubberWorks Inc,30.00,3000
+6,Glass,Structural,Safety and tinted glass for car windows and windshields,ClearGlass Corp,20.50,2500
+7,Electronics,Interior,Electronic components and wiring for car systems,AutoTech Electronics,50.75,1000
+8,Platinum,Interior,Catalytic converters with platinum catalysts for emissions control,EcoCats Inc,200.00,500
+9,Lithium-ion,Structural,Lithium-ion batteries for electric vehicle powertrains,PowerCells Ltd,150.00,1000
+10,Rubber,Interior,Rubber seals and gaskets for weatherproofing and noise reduction,SealPro Inc,8.50,5000
